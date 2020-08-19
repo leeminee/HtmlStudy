@@ -24,7 +24,6 @@
       <root url="jar://$PROJECT_DIR$/lib/woodstox-core-asl.jar!/" />
       <root url="jar://$PROJECT_DIR$/lib/stax2-api.jar!/" />
     </CLASSES>
-    <JAVADOC />
     <SOURCES />
   </library>
 </component>
