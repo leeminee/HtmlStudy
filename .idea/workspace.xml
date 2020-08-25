@@ -20,10 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dbb0bae6-faf3-454e-8f13-ab0d745c869f" name="Default Changelist" comment="생활코딩실습 버튼까지">
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/실습/html_css_1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/실습/parent_child_selector_1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/실습/selector_declaration_1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/실습/selectors_1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/실습/pseudo_1.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -117,6 +114,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
