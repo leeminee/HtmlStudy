@@ -19,43 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dbb0bae6-faf3-454e-8f13-ab0d745c869f" name="Default Changelist" comment="생활코딩실습 css-부모자식선택자 까지">
-      <change afterPath="$PROJECT_DIR$/src/image/coffee.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/image/img1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/image/img2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/image/img3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/image/img4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/image/img5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/image/img6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/image/img7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/실습/background_1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/실습/blend_1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/실습/box-sizing.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/실습/box.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/실습/cascading_1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/실습/color.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/실습/filter.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/실습/flex_1_basic.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/실습/flex_2_shrink.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/실습/flex_3_holyGrailLayout.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/실습/float.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/실습/font-family.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/실습/font-size.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/실습/inheritance.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/실습/inline-block.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/실습/margin-collapsing.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/실습/margin-collapsing_1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/실습/margin-collapsing_2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/실습/margin-collapsing_3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/실습/mediaquery.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/실습/mediaquery_2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/실습/multi_column.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/실습/position_1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/실습/position_2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/실습/position_3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/실습/text-align.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/실습/web-font.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="dbb0bae6-faf3-454e-8f13-ab0d745c869f" name="Default Changelist" comment="css-blend_1까지">
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/실습/blend_2.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,7 +81,7 @@
     <configuration default="true" type="JavascriptDebugType" engineId="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" uri="http://localhost:63343/HtmlStudy/web/WEB-INF/실습/box-sizing.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="blend_1.html" type="JavascriptDebugType" nameIsGenerated="true" engineId="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" uri="http://localhost:63343/HtmlStudy/web/WEB-INF/실습/blend_1.html" useBuiltInWebServerPort="true">
+    <configuration name="blend_2.html" type="JavascriptDebugType" nameIsGenerated="true" engineId="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" uri="http://localhost:63343/HtmlStudy/web/WEB-INF/실습/blend_2.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
   </component>
@@ -134,7 +99,7 @@
       <workItem from="1596597550131" duration="3361000" />
       <workItem from="1597065148150" duration="4567000" />
       <workItem from="1597800238409" duration="7256000" />
-      <workItem from="1598403219519" duration="29155000" />
+      <workItem from="1598403219519" duration="29274000" />
     </task>
     <task id="LOCAL-00001" summary="생활코딩실습 버튼까지">
       <created>1597803054366</created>
@@ -143,7 +108,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597803054366</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="css-blend_1까지">
+      <created>1598516887552</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1598516887553</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -164,13 +136,14 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="생활코딩실습 버튼까지" />
-    <option name="LAST_COMMIT_MESSAGE" value="생활코딩실습 버튼까지" />
+    <MESSAGE value="css-blend_1까지" />
+    <option name="LAST_COMMIT_MESSAGE" value="css-blend_1까지" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2585" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598516368601">
+    <state x="2585" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598516960158">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2585" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1598516368601" />
+    <state x="2585" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1598516960158" />
     <state x="3067" y="225" key="CommitChangelistDialog2" timestamp="1597128226037">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
@@ -247,9 +220,9 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2632" y="168" key="SettingsEditor/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1598493942087" />
-    <state x="2265" y="344" key="Vcs.Push.Dialog.v2" timestamp="1597803067028">
+    <state x="2265" y="344" key="Vcs.Push.Dialog.v2" timestamp="1598516893043">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2265" y="344" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597803067028" />
+    <state x="2265" y="344" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1598516893043" />
   </component>
 </project>
