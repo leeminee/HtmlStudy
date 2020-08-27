@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        #parent, #other, #grand{
+            border: 5px solid tomato;
+        }
+        #grand{
+            position: relative;
+        }
+        #me{
+            background-color: black;
+            color: white;
+            position: absolute;
+            /*absulute: html 태그에 맞춰서 left, right 값들이 설정됨*/
+            /*하지만 부모의 position이 상대적이라면(relative) 라면 부모의 기준에 따라감*/
+            left: 0;
+            top: 0;
+        }
+    </style>
+</head>
+<body>
+    <div id="other">other</div>
+    <div id="grand">grand
+    <div id="parent">parent
+        <div id="me">
+            me
+        </div>
+    </div>
+    </div>
+</body>
+</html>
